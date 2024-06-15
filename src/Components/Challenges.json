@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Challenge 1",
+    "nameid": "challange1",
+    "points": 40
+  },
+  {
+    "name": "Challenge 2",
+    "nameid": "challange2",
+    "points": 20
+  },
+  {
+    "name": "Challenge 3",
+    "nameid": "challange3",
+    "points": 30
+  },
+  {
+    "name": "Challenge 4",
+    "nameid": "challange4",
+    "points": 70
+  },
+  {
+    "name": "Challenge 5",
+    "nameid": "challange5",
+    "points": 20
+  },
+  {
+    "name": "Challenge 6",
+    "nameid": "challange6",
+    "points": 40
+  },
+  {
+    "name": "Challenge 7",
+    "nameid": "challange7",
+    "points": 40
+  },
+  {
+    "name": "Challenge 8",
+    "nameid": "challange8",
+    "points": 40
+  },
+  {
+    "name": "Challenge 9",
+    "nameid": "challange9",
+    "points": 30
+  },
+  {
+    "name": "Challenge 10",
+    "nameid": "challange10",
+    "points": 40
+  },
+  {
+    "name": "Challenge 11",
+    "nameid": "challange11",
+    "points": 60
+  },
+  {
+    "name": "Challenge 12",
+    "nameid": "challange12",
+    "points": 100
+  },
+  {
+    "name": "Challenge 13",
+    "nameid": "challange13",
+    "points": 30
+  },
+  {
+    "name": "Challenge 14",
+    "nameid": "challange14",
+    "points": 30
+  },
+  {
+    "name": "Challenge 15",
+    "nameid": "challange15",
+    "points": 30
+  },
+  {
+    "name": "Challenge 16",
+    "nameid": "challange16",
+    "points": 50
+  },
+  {
+    "name": "Challenge 17",
+    "nameid": "challange17",
+    "points": 80
+  }
+]

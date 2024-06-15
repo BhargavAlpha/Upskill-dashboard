@@ -1,0 +1,16 @@
+.dropper-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.cancle-upload {
+  color: black;
+  background-color: white;
+  padding: 12px 25px;
+  width: fit-content;
+  cursor: pointer;
+  border-radius: 7px;
+}

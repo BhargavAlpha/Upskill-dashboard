@@ -1,0 +1,105 @@
+.referal-history{
+    display: flex;
+    width: 361px;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 12px;
+    background: #121212;
+    height: 438px;
+    position: relative;
+}
+.redeem-hist-close-btn{
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    cursor: pointer;
+}
+.referal-history-header{
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.28px;
+}
+.redeem-hist-comp{
+    display: flex;
+    padding: 4px 12px;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    justify-content: space-around;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    width: 100%;
+    box-sizing: border-box;
+}
+.redeem-hist-img{
+    height: 40px;
+    width: 40px;
+}
+.redeem-hist-name{
+    color: var(--White, #FFF);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.56px;
+}
+.redeem-hist-date{
+    color: var(--White, #FFF);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.48px;
+}
+.redeem-hist-credit{
+    color: #70FF3E;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.48px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.redeem-hist-cont{
+    overflow-y: scroll;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.redeem-hist-cont::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+    display: flex;
+}
+.redeem-hist-cont::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+.redeem-hist-cont::-webkit-scrollbar-thumb {
+    background: white;
+     border-radius: 10px;
+}
+
+@media  screen and (max-width: 480px){
+    .referal-history{
+        width: 80%;
+        
+    }
+    
+}
+
+

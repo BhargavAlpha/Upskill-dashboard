@@ -1,0 +1,116 @@
+.refer-success{
+    display: flex;
+width: 325px;
+padding: 24px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+border-radius: 24px;
+background: black;
+  position: relative;
+/* background-color: white; */
+}
+
+.refer-success-div1{
+    color: var(--White, #FFF);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.64px;
+}
+.redeem-success-close-btn{
+  position: absolute;
+  right: 14px;
+  cursor: pointer;
+}
+.refer-success-div2{
+    display: flex;
+    height: 118px;
+    min-width: 171px;
+    padding: 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    align-self: stretch;
+    border-radius: 12px;
+    border-radius: 12px;
+    border: 1px solid #49D043;
+    background: #131612;
+    box-shadow: 0px 4px 32px 0px rgba(255, 207, 51, 0.05);
+}
+.refer-success-div2 span{
+  color: var(--White, #FFF);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.48px;
+}
+.redeem-success-img{
+  max-height: 53px;
+}
+  .refer-success-div2-sub{
+    display: flex;
+    padding: 6.606px 27.537px;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 0;
+    align-self: stretch;
+  }
+  .refer-success-div3{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .refer-success-div3 span{
+  color: rgba(255, 255, 255, 0.70);
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.48px;
+  }
+
+  li{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -0.56px;
+  }
+  ul{
+    padding-inline-start: 20px;;
+  }
+
+  .redeem-send-wa-btn{
+    display: flex;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    align-self: stretch;
+    border-radius: 8px;
+    background: #49D043;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.48px;
+  }
+
+  @media  screen and (max-width: 480px){
+     .refer-success{
+        width: 250px;
+        padding: 16px;
+        gap: 16px;
+  }
+}

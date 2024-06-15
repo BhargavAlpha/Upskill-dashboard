@@ -1,0 +1,66 @@
+{
+    "Bronze III": {
+        "start": 0,
+        "end": 49
+    },
+    "Bronze II": {
+        "start": 50,
+        "end": 99
+    },
+    "Bronze I": {
+        "start": 100,
+        "end": 199
+    },
+    "Silver III": {
+        "start": 200,
+        "end": 299
+    },
+    "Silver II": {
+        "start": 300,
+        "end": 449
+    },
+    "Silver I": {
+        "start": 450,
+        "end": 599
+    },
+    "Gold III": {
+        "start": 600,
+        "end": 799
+    },
+    "Gold II": {
+        "start": 800,
+        "end": 999
+    },
+    "Gold I": {
+        "start": 1000,
+        "end": 1249
+    },
+    "Platinum III": {
+        "start": 1250,
+        "end": 1499
+    },
+    "Platinum II": {
+        "start": 1500,
+        "end": 1799
+    },
+    "Platinum I": {
+        "start": 1800,
+        "end": 2099
+    },
+    "Diamond III": {
+        "start": 2100,
+        "end": 2499
+    },
+    "Diamond II": {
+        "start": 2500,
+        "end": 2999
+    },
+    "Diamond I": {
+        "start": 3000,
+        "end": 3499
+    },
+    "Emarald": {
+        "start": 3500,
+        "end": 3999
+    }
+}

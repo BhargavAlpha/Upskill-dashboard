@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Task 0",
+    "topic": "Intro & Setup",
+    "nameid": "task0",
+    "points": 10
+  },
+  {
+    "name": "Task 1",
+    "topic": "HTML",
+    "nameid": "task1",
+    "points": 10
+  },
+  {
+    "name": "Task 2",
+    "topic": "CSS: Intro, Selectors, Colors",
+    "nameid": "task2",
+    "points": 10
+  },
+  {
+    "name": "Task 3",
+    "topic": "CSS: Units, Box Model, Fonts",
+    "nameid": "task3",
+    "points": 10
+  },
+  {
+    "name": "Task 4",
+    "topic": "CSS: Display, Postion, Float",
+    "nameid": "task4",
+    "points": 20
+  },
+  {
+    "name": "Task 5",
+    "topic": "CSS: FlexBox",
+    "nameid": "task5",
+    "points": 20
+  },
+  {
+    "name": "Task 6",
+    "topic": "CSS: Media Query, Variables",
+    "nameid": "task6",
+    "points": 20
+  },
+  {
+    "name": "Task 7",
+    "topic": "CSS: Pseudo Elements",
+    "nameid": "task7",
+    "points": 30
+  },
+  {
+    "name": "Task 8",
+    "topic": "CSS: Transforms",
+    "nameid": "task8",
+    "points": 20
+  },
+  {
+    "name": "Task 9",
+    "topic": "CSS: Animations",
+    "nameid": "task9",
+    "points": 20
+  },
+  {
+    "name": "Grp project 1",
+    "topic": "Complete CSS Project",
+    "nameid": "grpproject1",
+    "points": 60
+  },
+  {
+    "name": "Task 10",
+    "topic": "JS: Intro, Data Types, Operators",
+    "nameid": "task10",
+    "points": 20
+  },
+  {
+    "name": "Task 11",
+    "topic": "JS: If Else & Switch",
+    "nameid": "task11",
+    "points": 30
+  },
+  {
+    "name": "Task 12",
+    "topic": "JS: Loops",
+    "nameid": "task12",
+    "points": 30
+  },
+  {
+    "name": "Task 13",
+    "topic": "JS: Arrays & Functions",
+    "nameid": "task13",
+    "points": 40
+  },
+  {
+    "name": "Task 14",
+    "topic": "JS: Callback hells & Promises,",
+    "nameid": "task14",
+    "points": 40
+  },
+  {
+    "name": "Task 15",
+    "topic": "JS: DOM & Event Handling",
+    "nameid": "task15",
+    "points": 50
+  },
+  {
+    "name": "Task 16",
+    "topic": "JS: Map & Filter",
+    "nameid": "task16",
+    "points": 70
+  },
+  {
+    "name": "Task 17",
+    "topic": "JS: DOM Project",
+    "nameid": "task17",
+    "points": 100
+  },
+  {
+    "name": "Grp Project 2",
+    "topic": "Laundry Project",
+    "nameid": "grpproject2",
+    "points": 150
+  },
+  {
+    "name": "Task 18",
+    "topic": "Pre-Requisites for React",
+    "nameid": "task18",
+    "points": 70
+  },
+  {
+    "name": "Task 19 Old",
+    "topic": "React JS Project",
+    "nameid": "task19old",
+    "points": 200
+  },
+  {
+    "name": "Task 19",
+    "topic": "React Intro",
+    "nameid": "task19",
+    "points": 20
+  },
+  {
+    "name": "Task 20",
+    "topic": "React Hooks",
+    "nameid": "task20",
+    "points": 50
+  },
+  {
+    "name": "Task 21",
+    "topic": "React Props",
+    "nameid": "task21",
+    "points": 70
+  },
+  {
+    "name": "Task 22",
+    "topic": "React Custom Hook",
+    "nameid": "task22",
+    "points": 100
+  },
+  {
+    "name": "Task 23",
+    "topic": "React Router Dom",
+    "nameid": "task23",
+    "points": 150
+  },
+  {
+    "name": "Task 24",
+    "topic": "Context API",
+    "nameid": "task24",
+    "points": 200
+  },
+  {
+    "name": "Task 25",
+    "topic": "Redux Toolkit (RTK)",
+    "nameid": "task25",
+    "points": 200
+  },
+  {
+    "name": "Grp Project 3",
+    "topic": "React Group Project",
+    "nameid": "grpproject3",
+    "points": 200
+  },
+  {
+    "name": "Task 26",
+    "topic": "Node js",
+    "nameid": "task26",
+    "points": 150
+  },
+  {
+    "name": "Task 27",
+    "topic": "Express js",
+    "nameid": "task27",
+    "points": 150
+  },
+  {
+    "name": "Task 28",
+    "topic": "Mongo DB & MongooseF",
+    "nameid": "task28",
+    "points": 150
+  },
+  {
+    "name": "Grp Project 4",
+    "topic": "Full Stack Project 1",
+    "nameid": "grpproject4",
+    "points": 400
+  }
+]

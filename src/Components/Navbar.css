@@ -1,0 +1,143 @@
+.nb-cont {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
+
+.nb-name {
+  color: #fff;
+  font-family: Archivo;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.nb-right-cont {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nb-notif {
+  cursor: pointer;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+
+  align-items: flex-start;
+  gap: 10px;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nb-join-cont {
+  cursor: pointer;
+  border-radius: 1000px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.05);
+  display: flex;
+  padding: 14px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+}
+
+.nb-join-cont::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(17, 132, 63, 0.8);
+  transition: left 0.3s ease;
+  z-index: -1;
+}
+
+.nb-join-cont:hover::before {
+  left: 0;
+}
+.nb-join-cont:hover::before {
+  left: 0;
+}
+
+.nb-join-cont span {
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.9px;
+  background: var(
+    --linear-gradient-upskill,
+    linear-gradient(94deg, #49d043 57.76%, #ffb912 100%)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nav-ref-hist-btn{
+  display: flex;
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  border: none;
+}
+
+.ham {
+  padding: 0 0 0 30px;
+  display: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1200px) {
+  .ham {
+    display: flex;
+  }
+  .nb-notif {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nb-join-cont {
+    width: 140px;
+    padding: 10px 5px;
+  }
+  .nb-join-cont span {
+    font-size: 10px;
+  }
+  .ham {
+    padding: 0;
+  }
+  .nb-notif {
+    display: none;
+  }
+  .nb-name {
+    font-size: clamp(18px, 1vw, 20px);
+  }
+}
